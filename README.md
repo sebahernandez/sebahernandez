@@ -16,6 +16,12 @@
   </em>
 </p>
 
+* 🌍  I'm based in Santiago, Chile.
+* ✉️  You can contact me at [hello@sebaprogrammer.dev](mailto:hello@sebaprogrammer.dev)
+* 🧠  I'm learning a new JavaScript framework
+* 🤝  I'm open to collaborating on interesting JavaScript projects
+* ⚡  I moonlight as a super hero
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
