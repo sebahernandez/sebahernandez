@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Seba_Programmer</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm SebaCure</h1>
 <h3 align="center">Fullstack Developer | Shopify Developer Liquid </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/sebasti%C3%A1n-lagos-40b1331a5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
@@ -17,7 +17,7 @@
 </p>
 
 * 🌍  I'm based in Santiago, Chile.
-* ✉️  You can contact me at [hello@sebaprogrammer.dev](mailto:hello@sebaprogrammer.dev)
+* ✉️  You can contact me at [sebaprogramer@gmail.com](mailto:sebaprogramer@gmail.com)
 * 🧠  I'm learning a new JavaScript framework
 * 🤝  I'm open to collaborating on interesting JavaScript projects
 * ⚡  I moonlight as a super hero
