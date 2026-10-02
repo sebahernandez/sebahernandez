@@ -17,7 +17,7 @@
 </p>
 
 * 🌍  I'm based in Santiago, Chile.
-* ✉️  You can contact me at [sebaprogramer@gmail.com](mailto:sebaprogramer@gmail.com)
+* ✉️  You can contact me at [sebaslagos.h@gmail.com](mailto:sebaslagos.h@gmail.com)
 * 🧠  I'm learning a new JavaScript framework
 * 🤝  I'm open to collaborating on interesting JavaScript projects
 * ⚡  I moonlight as a super hero
@@ -44,7 +44,6 @@
    ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
   
 <br>
-  
 
 - **Softwares and Tools**:
 
@@ -61,11 +60,7 @@
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
-
 </p>
-
-<br>
-<br>
 
 -----
 
